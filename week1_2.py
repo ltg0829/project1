@@ -1,3 +1,4 @@
+
 height = input("키를 입력해주세요(소수점 첫번쨰 자리까지) : ")
 weight = input("체중을 입력해주세요(소수점 첫번째 자리까지) : ")
 height = float(height)
